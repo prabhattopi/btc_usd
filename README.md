@@ -64,6 +64,6 @@ This project is a **real-time cryptocurrency trading dashboard** built with Next
 
    ```bash
    git clone https://github.com/prabhattopi/btc_usd.git
-   cd frontend
+   cd btc_usd
    npm run dev
    ```
